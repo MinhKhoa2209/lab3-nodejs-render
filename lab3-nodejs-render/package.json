@@ -1,0 +1,11 @@
+{
+  "name": "lab3-nodejs-render",
+  "version": "1.0.0",
+  "description": "A simple Node.js application deployed to Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dinh Minh Khoa",
+  "license": "ISC"
+}
